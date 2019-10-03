@@ -1,5 +1,5 @@
 # TBrain - E.SUN House Price Prediction #
-4th place solution to the [TBrain competition - E.SUN AI Open Competition Summer 2019 - House Price Prediction](https://tbrain.trendmicro.com.tw/Competitions/Details/6)
+4th place solution to the TBrain competition - E.SUN AI Open Competition Summer 2019 - House Price Prediction ([玉山人工智慧公開挑戰賽2019夏季賽 - 台灣不動產AI神預測](https://tbrain.trendmicro.com.tw/Competitions/Details/6))
 
 ### Contributors ###
 - Chen-Hsi (Sky) Huang ([github.com/skyhuang1208](http://github.com/skyhuang1208))
@@ -29,4 +29,4 @@ We won 4th place out of 766 teams (top 0.5%) with private leaderboard score 6210
 - `loss_exp.ipynb` - experiment on the smooth hit rate loss function
 - `price_quantizer*.ipynb` - quantize predicted price used by stack 16 and 18
 
-### How to use ###
+### How it work ###
