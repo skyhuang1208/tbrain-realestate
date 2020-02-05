@@ -8,6 +8,8 @@
 ### Achievement ###
 We won 4th place out of 766 teams (top 0.5%) with private leaderboard score 6210.877.
 
+<img src="doc/Leaderboard.png" alt="Leaderboard" width="600"/>
+
 ### Documentation ###
 - [Modeling description (in Chinese)](https://github.com/skyhuang1208/tbrain-realestate/blob/master/doc/建模說明文件_Sky.pdf)
 - [Presentation (in Chinese)](https://docs.google.com/presentation/d/1P-N77IkxL-ps-dCR02iWHv2dclDLPBRwHjGHy4CwK-U/edit?usp=sharing)
